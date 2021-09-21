@@ -1,8 +1,8 @@
 ### 👋 Hi there, I'm Brian
 
 - 😄 Pronouns: he/him/his
-- :man_student: I'm a postdoc at Fred Hutch
-- 🔭 I’m working on statistical methods for issues arising in cancer biomarker research and infectious disease research
+- ⚡ I'm an Assistant Investigator in Biostatistics at Kaiser Permanente Washington Health Research Institute
+- 🔭 I’m working on statistical methods for issues arising in mental health, drug safety, cancer, and infectious disease research
 
 <!--
 **bdwilliamson/bdwilliamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
